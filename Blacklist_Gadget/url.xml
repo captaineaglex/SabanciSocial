@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <Module specificationVersion='2'>
+  <ModulePrefs title="Blacklist Maintenance" width="1000" height="2000" author="Kartal Tasoglu" description="Embeds a SabanciSocial Blacklist Add-On">
+    <Require feature="wave" />
+    <Require feature="dynamic-height" />
+    <Require feature="dynamic-width" />
+  </ModulePrefs>
+  <Content type="html" href="url.html" />
+</Module >
